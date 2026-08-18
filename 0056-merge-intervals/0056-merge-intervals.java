@@ -18,7 +18,7 @@ class Solution {
             {
                 result.add(new int[]{start,end});
                 start=intervals[i][0];
-                end =intervals[i][1];
+                end=intervals[i][1];
             }
         }
         result.add(new int[]{start,end});
