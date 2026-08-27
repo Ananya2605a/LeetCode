@@ -31,13 +31,13 @@ class Solution {
         return maxtime;
         
     }
-    public void dfs(int[][] grid,int i,int j, int min , int row,int col)
+    public void dfs(int[][] grid,int i,int j,int min,int row,int col)
     {
-        if(i<0||j<0||i>=row||j>=col||grid[i][j]==0)
+        if(i<0 || j<0 || i>=row || j>=col || grid[i][j]==0)
         {
             return;
         }
-        if(grid[i][j]>1 && grid[i][j]<min)
+        if(grid[i][j]<min && grid[i][j]>1 )
         {
             return;
         }
