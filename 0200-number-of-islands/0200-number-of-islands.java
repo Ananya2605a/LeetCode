@@ -16,17 +16,16 @@ class Solution {
                     count++;
                     dfs(grid,i,j);
                 }
-                
             }
         }
         return count;
         
     }
-    public void dfs(char[][] grid, int i, int j)
+    public void dfs(char[][] grid,int i,int j)
     {
         int row = grid.length;
-        int col = grid[0].length;
-        if(i<0 || j<0 || i>=row || j>=col || grid[i][j]=='0')
+        int col= grid[0].length;
+        if(i<0||j<0||i>=row||j>=col||grid[i][j]=='0')
         {
             return;
         }
@@ -35,6 +34,5 @@ class Solution {
         dfs(grid,i,j-1);
         dfs(grid,i+1,j);
         dfs(grid,i-1,j);
-
     }
 }
