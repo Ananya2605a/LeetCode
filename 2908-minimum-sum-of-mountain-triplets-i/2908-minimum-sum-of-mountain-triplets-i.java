@@ -10,12 +10,13 @@ class Solution {
                 {
                     if(nums[j]>nums[i] && nums[j]>nums[k])
                     {
-                        int current = nums[i]+nums[j]+nums[k];
-                        min=Math.min(min,current);
+                        int currentsum=nums[i]+nums[j]+nums[k];
+                        min=Math.min(min,currentsum);
                     }
                 }
             }
         }
-        return min == Integer.MAX_VALUE ?-1:min;
+        return min==Integer.MAX_VALUE ? -1 : min;
+        
     }
 }
