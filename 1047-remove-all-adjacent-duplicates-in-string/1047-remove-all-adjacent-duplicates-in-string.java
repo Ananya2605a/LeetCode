@@ -10,7 +10,7 @@ class Solution {
             }
             else
             {
-                sb.append(ch);
+            sb.append(ch);
             }
         }
         return sb.toString();
