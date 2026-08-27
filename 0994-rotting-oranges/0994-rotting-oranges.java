@@ -1,9 +1,6 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
-        if(grid==null || grid.length==0)
-        {
-            return 0;
-        }
+        if(grid==null || grid.length==0) return 0;
         int row = grid.length;
         int col = grid[0].length;
         for(int i=0;i<row;i++)
@@ -16,7 +13,7 @@ class Solution {
                 }
             }
         }
-        int maxtime=0;
+        int maxtime = 0;
         for(int i=0;i<row;i++)
         {
             for(int j=0;j<col;j++)
@@ -33,14 +30,8 @@ class Solution {
     }
     public void dfs(int[][] grid,int i,int j,int min,int row,int col)
     {
-        if(i<0 || j<0 || i>=row || j>=col || grid[i][j]==0)
-        {
-            return;
-        }
-        if(grid[i][j]<min && grid[i][j]>1 )
-        {
-            return;
-        }
+        if(i<0||j<0||i>=row||j>=col||grid[i][j]==0) return;
+        if(grid[i][j]<min && grid[i][j]>1) return;
         grid[i][j]=min;
         dfs(grid,i+1,j,min+1,row,col);
         dfs(grid,i-1,j,min+1,row,col);
