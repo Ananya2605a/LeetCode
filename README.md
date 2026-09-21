@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Ananya2605a/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Ananya2605a/LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Ananya2605a/LeetCode/tree/master/0322-coin-change) |
+| [0525-contiguous-array](https://github.com/Ananya2605a/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ananya2605a/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0994-rotting-oranges](https://github.com/Ananya2605a/LeetCode/tree/master/0994-rotting-oranges) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ananya2605a/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ananya2605a/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/Ananya2605a/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Ananya2605a/LeetCode/tree/master/0217-contains-duplicate) |
+| [0525-contiguous-array](https://github.com/Ananya2605a/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ananya2605a/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Ananya2605a/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ananya2605a/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
