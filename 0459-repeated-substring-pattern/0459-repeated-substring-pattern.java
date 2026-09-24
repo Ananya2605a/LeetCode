@@ -6,20 +6,17 @@ class Solution {
             if(n%len==0)
             {
                 String sub = s.substring(0,len);
-                String res = "";
+                String res="";
                 for(int i=0;i<n/len;i++)
                 {
                     res+=sub;
                 }
                 if(res.equals(s))
                 {
-                   return true;
+                    return true;
                 }
             }
-            
         }
         return false;
-        
-        
     }
 }
