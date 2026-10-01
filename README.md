@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ananya2605a/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Ananya2605a/LeetCode/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/Ananya2605a/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
 |  |
 | ------- |
@@ -240,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Ananya2605a/LeetCode/tree/master/0155-min-stack) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Ananya2605a/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
