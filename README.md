@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Ananya2605a/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ananya2605a/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Ananya2605a/LeetCode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Ananya2605a/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ananya2605a/LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ananya2605a/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ananya2605a/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Ananya2605a/LeetCode/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/Ananya2605a/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ananya2605a/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Ananya2605a/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Ananya2605a/LeetCode/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Ananya2605a/LeetCode/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/Ananya2605a/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -245,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Ananya2605a/LeetCode/tree/master/0191-number-of-1-bits) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Ananya2605a/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
