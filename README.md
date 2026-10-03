@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Ananya2605a/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ananya2605a/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ananya2605a/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Depth-First Search
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Ananya2605a/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ananya2605a/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Ananya2605a/LeetCode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Ananya2605a/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Ananya2605a/LeetCode/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/Ananya2605a/LeetCode/tree/master/0523-continuous-subarray-sum) |
 ## Floyd's Cycle Finding Algorithm
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Ananya2605a/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Ananya2605a/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
