@@ -109,11 +109,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ananya2605a/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ananya2605a/LeetCode/tree/master/0100-same-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Ananya2605a/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ananya2605a/LeetCode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ananya2605a/LeetCode/tree/master/0100-same-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Ananya2605a/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ananya2605a/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Ananya2605a/LeetCode/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/Ananya2605a/LeetCode/tree/master/0994-rotting-oranges) |
@@ -247,11 +249,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ananya2605a/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ananya2605a/LeetCode/tree/master/0100-same-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Ananya2605a/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ananya2605a/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ananya2605a/LeetCode/tree/master/0100-same-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Ananya2605a/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 ## Design
 |  |
 | ------- |
