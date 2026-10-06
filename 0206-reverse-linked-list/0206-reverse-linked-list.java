@@ -14,17 +14,10 @@ class Solution {
         {
             return head;
         }
-        ListNode current = head;
-        ListNode next = null;
-        ListNode prev = null;
-        while(current!=null)
-        {
-            next=current.next;
-            current.next=prev;
-            prev=current;
-            current=next;
-        }
-        return prev;
+        ListNode newHead = reverseList(head.next);
+        head.next.next=head;
+        head.next=null;
+        return newHead;
         
     }
 }
