@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ananya2605a/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Ananya2605a/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Ananya2605a/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Ananya2605a/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ananya2605a/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Ananya2605a/LeetCode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Ananya2605a/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Ananya2605a/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Ananya2605a/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ananya2605a/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ananya2605a/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Ananya2605a/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Ananya2605a/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Ananya2605a/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ananya2605a/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Ananya2605a/LeetCode/tree/master/0509-fibonacci-number) |
 ## Newton's Method
