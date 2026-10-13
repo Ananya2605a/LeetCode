@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ananya2605a/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Ananya2605a/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Ananya2605a/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Ananya2605a/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ananya2605a/LeetCode/tree/master/0049-group-anagrams) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ananya2605a/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Ananya2605a/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Ananya2605a/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Ananya2605a/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ananya2605a/LeetCode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ananya2605a/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Ananya2605a/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Ananya2605a/LeetCode/tree/master/0061-rotate-list) |
