@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ananya2605a/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Ananya2605a/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ananya2605a/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Ananya2605a/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ananya2605a/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Ananya2605a/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Ananya2605a/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ananya2605a/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Ananya2605a/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ananya2605a/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Ananya2605a/LeetCode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Ananya2605a/LeetCode/tree/master/0509-fibonacci-number) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ananya2605a/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Ananya2605a/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Ananya2605a/LeetCode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Ananya2605a/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
