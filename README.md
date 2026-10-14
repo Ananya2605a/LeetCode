@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Ananya2605a/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Ananya2605a/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ananya2605a/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Ananya2605a/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Ananya2605a/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ananya2605a/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ananya2605a/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ananya2605a/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ananya2605a/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Ananya2605a/LeetCode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Ananya2605a/LeetCode/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/Ananya2605a/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ananya2605a/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ananya2605a/LeetCode/tree/master/0344-reverse-string) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ananya2605a/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ananya2605a/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ananya2605a/LeetCode/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ananya2605a/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Ananya2605a/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ananya2605a/LeetCode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Ananya2605a/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Ananya2605a/LeetCode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Ananya2605a/LeetCode/tree/master/0994-rotting-oranges) |
 ## Stack
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Ananya2605a/LeetCode/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/Ananya2605a/LeetCode/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
