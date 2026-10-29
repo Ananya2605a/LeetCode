@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ananya2605a/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/Ananya2605a/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ananya2605a/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/Ananya2605a/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Ananya2605a/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ananya2605a/LeetCode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Ananya2605a/LeetCode/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Ananya2605a/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -357,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Ananya2605a/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Ananya2605a/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
