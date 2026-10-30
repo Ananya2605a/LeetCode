@@ -8,7 +8,7 @@ class Solution {
         }
         Arrays.sort(order,(a,b)->Integer.compare(intervals[a][1],intervals[b][1]));
         int total=0;
-        int lastend=Integer.MIN_VALUE;
+        int lastend = Integer.MIN_VALUE;
         for(int i=0;i<n;i++)
         {
             int idx = order[i];
