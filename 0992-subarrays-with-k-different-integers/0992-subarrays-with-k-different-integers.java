@@ -1,16 +1,15 @@
 class Solution {
     public int subarraysWithKDistinct(int[] nums, int k) {
         return total(nums,k)-total(nums,k-1);
-        
     }
-    public int total(int[] nums,int k)
+    public int total(int[] nums, int k)
     {
         HashMap<Integer,Integer> map = new HashMap<>();
         int left=0;
         int count=0;
-        for(int right=0;right<nums.length;right++)
+        for(int i=0;i<nums.length;i++)
         {
-            map.put(nums[right],map.getOrDefault(nums[right],0)+1);
+            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
             while(map.size()>k)
             {
                 map.put(nums[left],map.get(nums[left])-1);
@@ -20,7 +19,7 @@ class Solution {
                 }
                 left++;
             }
-            count+=right-left+1;
+            count+=i-left+1;
         }
         return count;
     }
