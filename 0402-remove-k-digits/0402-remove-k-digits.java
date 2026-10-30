@@ -25,15 +25,12 @@ class Solution {
         while(i<sb.length() && sb.charAt(i)=='0')
         {
             i++;
-        }
+        }       
         String ans = sb.substring(i);
         if(ans.length()==0)
         {
             return "0";
         }
         return ans;
-
-
-        
     }
 }
