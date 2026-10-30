@@ -1,10 +1,10 @@
 class Solution {
     public int rob(int[] nums) {
-        int prev1=0;
-        int prev2=0;
-        for(int x : nums)
+        int prev1 = 0;
+        int prev2 = 0;
+        for(int i=0;i<nums.length;i++)
         {
-            int curr = Math.max(prev1,prev2+x);
+            int curr = Math.max(prev1,prev2+nums[i]);
             prev2=prev1;
             prev1=curr;
         }
