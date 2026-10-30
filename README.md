@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ananya2605a/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Ananya2605a/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ananya2605a/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Ananya2605a/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Ananya2605a/LeetCode/tree/master/0048-rotate-image) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ananya2605a/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ananya2605a/LeetCode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ananya2605a/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Ananya2605a/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ananya2605a/LeetCode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Ananya2605a/LeetCode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Ananya2605a/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Data Stream
