@@ -17,9 +17,9 @@ class Solution {
             k--;
         }
         StringBuilder sb = new StringBuilder();
-        for(char c : st)
+        for(char ch : st)
         {
-            sb.append(c);
+            sb.append(ch);
         }
         int i=0;
         while(i<sb.length() && sb.charAt(i)=='0')
