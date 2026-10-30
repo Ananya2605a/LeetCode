@@ -1,9 +1,9 @@
 class Solution {
     public void sortColors(int[] nums) {
         int n = nums.length;
-        int one=0;
-        int two=0;
-        int zero=0;
+        int zero = 0;
+        int one = 0;
+        int two =0;
         for(int i=0;i<n;i++)
         {
             if(nums[i]==0)
@@ -32,7 +32,6 @@ class Solution {
         {
             nums[index++]=2;
         }
-
         
     }
 }
