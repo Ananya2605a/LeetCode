@@ -6,7 +6,7 @@ class Solution {
         {
             dp[i]=1;
         }
-        int maxlen=1;
+        int maxlen=0;
         for(int i=0;i<n;i++)
         {
             for(int j=0;j<i;j++)
@@ -15,11 +15,10 @@ class Solution {
                 {
                     dp[i]=Math.max(dp[i],dp[j]+1);
                 }
+            
             }
-            maxlen=Math.max(maxlen,dp[i]);
-
+            maxlen=Math.max(dp[i],maxlen);
         }
         return maxlen;
-        
     }
 }
