@@ -3,7 +3,6 @@ class StockSpanner {
 
     public StockSpanner() {
         st = new Stack<>();
-        
     }
     
     public int next(int price) {
