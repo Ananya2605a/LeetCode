@@ -13,13 +13,13 @@ class Solution {
         }
         while(k>0)
         {
-            st.pop();
-            k--;
+             st.pop();
+             k--;
         }
         StringBuilder sb = new StringBuilder();
-        for(char ch : st)
+        for(char c : st)
         {
-            sb.append(ch);
+            sb.append(c);
         }
         int i=0;
         while(i<sb.length() && sb.charAt(i)=='0')
@@ -32,6 +32,7 @@ class Solution {
             return "0";
         }
         return ans;
+
         
     }
 }
